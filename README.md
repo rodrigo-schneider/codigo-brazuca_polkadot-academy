@@ -1,1 +1,1 @@
-# codigo-brazuca_polkadot-academy
+Resolution of exercises from the Código Brazuca Polkadot Academy course
