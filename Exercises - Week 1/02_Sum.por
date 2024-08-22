@@ -3,14 +3,14 @@ programa {
 
     real numero1, numero2, soma
 
-    escreva("Digite o primeiro número: ")
+    escreva("Digite o primeiro nÃºmero: ")
     leia(numero1)
 
-    escreva("Digite o segundo número: ")
+    escreva("Digite o segundo nÃºmero: ")
     leia(numero2)
 
     soma = numero1 + numero2
 
-    escreva("A soma dos números é: ", soma)
+    escreva("A soma dos nÃºmeros Ã©: ", soma)
   }
 }
